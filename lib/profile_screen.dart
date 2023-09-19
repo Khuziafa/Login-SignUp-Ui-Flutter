@@ -64,7 +64,23 @@ class _profileScreenState extends State<profileScreen> {
               myrow("Rate This App", Icons.star, Colors.deepPurple),
               myrow("Share This App", Icons.share, Colors.pink),
 
+              //// ext text remove
 
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
 
             ],
           ),

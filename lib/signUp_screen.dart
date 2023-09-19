@@ -154,6 +154,26 @@ class _signup_screenState extends State<signup_screen> {
                   ],
                 ),
                 SizedBox(height: 30,),
+
+
+
+                //// ext text remove
+
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
               ],
             ),
           ),

@@ -221,6 +221,24 @@ class _loginScreenState extends State<loginScreen> {
                       decoration: BoxDecoration(borderRadius: BorderRadius.circular(12), color: Colors.white),),
                   ],
                 ),
+
+                //// ext text remove
+
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
+                Text("Login",style: TextStyle(
+                    fontSize: 28,fontWeight: FontWeight.bold,
+                    color: Colors.white),),
               ],
             ),
           ),

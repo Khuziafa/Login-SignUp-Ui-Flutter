@@ -61,6 +61,25 @@ class _forgetState extends State<forget> {
                     child: Text("Submit",style: TextStyle(color: Color.fromRGBO(19, 19, 159, 9),
                         fontSize: 20,fontWeight: FontWeight.bold)),
                   ),
+
+
+                  //// ext text remove
+
+                  Text("Login",style: TextStyle(
+                      fontSize: 28,fontWeight: FontWeight.bold,
+                      color: Colors.white),),
+                  Text("Login",style: TextStyle(
+                      fontSize: 28,fontWeight: FontWeight.bold,
+                      color: Colors.white),),
+                  Text("Login",style: TextStyle(
+                      fontSize: 28,fontWeight: FontWeight.bold,
+                      color: Colors.white),),
+                  Text("Login",style: TextStyle(
+                      fontSize: 28,fontWeight: FontWeight.bold,
+                      color: Colors.white),),
+                  Text("Login",style: TextStyle(
+                      fontSize: 28,fontWeight: FontWeight.bold,
+                      color: Colors.white),),
                 ),
               ),
             ],

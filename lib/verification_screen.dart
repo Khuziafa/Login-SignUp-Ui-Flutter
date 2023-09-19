@@ -45,7 +45,23 @@ class _verfifaction_screenState extends State<verfifaction_screen> {
               SizedBox(height: 100,),
 
 
+//// ext text remove
 
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
+              Text("Login",style: TextStyle(
+                  fontSize: 28,fontWeight: FontWeight.bold,
+                  color: Colors.white),),
 
 
               CupertinoButton(padding: EdgeInsets.zero,
